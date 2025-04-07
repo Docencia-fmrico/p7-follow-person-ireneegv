@@ -1,0 +1,13 @@
+hsv_filter_node:
+  ros__parameters:
+    use_sim_time: true
+    min_h: 138
+    max_h: 152
+    min_s: 138
+    max_s: 149
+    min_v: 255
+    max_v: 255
+
+detection_to_3d_from_depth_node:
+  ros__parameters:
+    use_sim_time: true
